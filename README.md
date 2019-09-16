@@ -2,7 +2,7 @@
 
 My first pages with wordpress
 
-ref: wordpress.com
+ref: <a href='https://wordpress.com'>https://wordpress.com</a>
 
 
 > what is wordprress?
